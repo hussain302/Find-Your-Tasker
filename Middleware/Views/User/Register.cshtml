@@ -1,0 +1,162 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_MinimalLayout.cshtml";
+}
+
+
+<div class="container text-center mt-5 mb-5 jumbotron">
+    <h1 class="display-4" style="font-size: bolder" > Find Your Tasker -  @ViewData["Title"]</h1>
+</div>
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container-fluid mb-5">
+    <div class="offset-2 col-7 login-form-1">
+        <h3 class="display-5">Enter Credentials</h3>
+        <form href="~/user/register" method="post">
+            <div class="form-row">
+                <div class="form-group col-4">
+                    <input asp-for="FirstName" type="text" class="form-control" required placeholder="Firstname" value="" />
+                </div>
+                <div class="form-group col-4">
+                    <input type="text" asp-for="MiddleName" class="form-control" placeholder="Middlename*" value="" />
+                </div>
+                <div class="form-group col-4">
+                    <input type="text" asp-for="LastName" class="form-control" required placeholder="Lastname" value="" />
+                </div>
+            </div>
+            
+            <div class="form-row">
+                <div class="form-group col-4">
+                    <input asp-for="UserName" type="text" required class="form-control" placeholder="Username" value="" />
+                    <small>Tip: Username must be unique </small>
+                </div>
+                <div class="form-group col-8">
+                    <input asp-for="Email" type="email" required class="form-control" placeholder="Email" value="" />
+                    <small>Tip: Username must be unique </small>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-6">
+                    <input type="password" asp-for="Password" class="form-control" placeholder="Password" value="" />
+                </div>
+                <div class="form-group col-6">
+                    <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" value="" />
+                </div>
+                <small class="ml-2 mb-2">Password and Confirm Password must be matching eachother</small>
+            </div>
+            <br />
+            <div class="form-row">
+                
+                <div class="form-group col-4">
+                    <label> Phone one </label>
+                    <input asp-for="PhoneOne" type="text" class="form-control" placeholder="Phone number 1" value="" />
+                </div>
+
+                <div class="form-group col-4">
+                <label> Phone two* </label>
+                    <input type="text" asp-for="PhoneTwo" class="form-control" placeholder="Phone number 2*" value="" />
+                </div>
+
+                <div class="form-group col-4">
+                <label> Date of birth </label>
+                    <input type="date" asp-for="BirthDate" class="form-control" placeholder="Birthdate*" value="" />
+                </div>
+            </div>
+
+            <div class="form">
+                <div class="form-group">
+                    <input type="file" class="form-control" placeholder="No Image Choosen" value="" />
+                </div>
+            </div>
+
+            <div class="form-check">
+                <input asp-for="IsTasker" type="checkbox" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1"> Tasker or Poster </label><br />
+                <small class="text-muted"> Check it if Tasker and Uncheck if Poster. </small>
+            </div>
+
+            <div class="form-group text-center">
+                <input type="submit" class="btnSubmit" value="Register" />
+            </div>
+
+            <div class="form-group text-center">
+                <a href="#" class="ForgetPwd">Forget Password?</a> | <span>Already have an account? <a href="Login">Login.</a> </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section styles {
+    <style>
+        .login-container {
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .login-form-1 {
+            padding: 5%;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-1 h3 {
+                text-align: center;
+                color: #333;
+            }
+
+        .login-form-2 {
+            padding: 5%;
+            background: #0062cc;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-2 h3 {
+                text-align: center;
+                color: #fff;
+            }
+
+        .login-container form {
+            padding: 10%;
+        }
+
+        .btnSubmit {
+            width: 30%;
+            border-radius: 1rem;
+            padding: 1.5%;
+            border: none;
+            cursor: pointer;
+        }
+
+        .login-form-1 .btnSubmit {
+            font-weight: 600;
+            color: #fff;
+            background-color: #0062cc;
+        }
+
+        .login-form-2 .btnSubmit {
+            font-weight: 600;
+            color: #0062cc;
+            background-color: #fff;
+        }
+
+        .login-form-2 .ForgetPwd {
+            color: #fff;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .login-form-1 .ForgetPwd {
+            color: #0062cc;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+    </style>
+}

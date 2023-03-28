@@ -1,0 +1,52 @@
+﻿@model CategoryModel
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container mt-4">
+
+
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1>  @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" asp-action="Manage"> Back to Manage <i class="fa fa-arrow-left"></i> </a>
+    </div>
+
+    <div class="mt-5">
+        <form>
+            <input hidden="hidden" asp-for="CategoryId" />
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Category Name</label>
+                <input type="text" disabled asp-for="CategoryName" class="form-control" id="exampleFormControlInput1" placeholder="Enter Task Status Name">
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Category Details</label>
+                <textarea disabled rows="3" asp-for="CategoryDetails" class="form-control" id="exampleFormControlInput1" placeholder="Enter Category Details"></textarea>
+            </div>
+            <div class="row">
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label">Created By</label>
+                    <input type="text" disabled asp-for="CreatedBy" class="form-control" id="exampleFormControlInput1" placeholder="Enter Role Name">
+                </div>
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label">Created on</label>
+                    <input type="datetime" disabled asp-for="CreatedOn" class="form-control" id="exampleFormControlInput1">
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label">Updated By</label>
+                    <input type="text" disabled asp-for="UpdatedBy" class="form-control" id="exampleFormControlInput1">
+                </div>
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Updated on</label>
+                    <input type="datetime" disabled asp-for="UpdatedOn" class="form-control" id="exampleFormControlInput1">
+                </div>
+            </div>
+            <div class="mb-3 text-center">
+                <a asp-action="Manage" class="btn btn-outline-primary"> Back to Manage </a>
+            </div>
+        </form>
+    </div>
+</div>

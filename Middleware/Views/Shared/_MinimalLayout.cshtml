@@ -1,0 +1,44 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> @ViewData["Title"] | Company</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    @RenderSection("styles", required: false)
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-dark bg-dark container-fluid">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white display-1" href="\"> Find A Tasker </a>                
+            </div>
+        </nav>
+    </header>
+
+
+    <main class="">
+        @RenderBody()
+        </mainc>
+
+        <footer class="bg-dark mb-2 pt-2 ">
+            <div class="text-center  text-muted">
+                <p class="text-white">@DateTime.Now.Year  &copy; All Rights Reserved | Designed and Developed by <a class="text-white" href="#">CodeHub.NET</a><h3>
+            </div>
+        </footer>
+</body>
+
+
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.esm.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.esm.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+@*@RenderSection("scripts",false)
+*@
+</html>

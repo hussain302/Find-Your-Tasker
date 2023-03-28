@@ -1,0 +1,40 @@
+﻿@model CategoryModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong> Something went wrong </strong> @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="jumbotron bg-dark text-center text-white p-4">
+    <h1> @ViewData["Title"] </h1>
+    <a class="btn btn-outline-success mt-2" asp-action="Manage"> Back to Manage <i class="fa fa-arrow-left"></i> </a>
+</div>
+
+<div class="mt-5">
+    <form asp-action="CreateOrEdit" method="post">
+
+        <input hidden="hidden" asp-for="CategoryId" />
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Category Name</label>
+            <input type="text" asp-for="CategoryName" class="form-control" id="exampleFormControlInput1" placeholder="Enter Category Name">
+        </div>
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Category Details</label>
+            <textarea rows="3" asp-for="CategoryDetails" class="form-control" id="exampleFormControlInput1" placeholder="Enter Category Details"></textarea>
+        </div>
+
+        <div class="mb-3 text-center">
+            <button class="btn btn-outline-success"> Save </button>
+        </div>
+    </form>
+</div>
+</div>

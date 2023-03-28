@@ -1,0 +1,53 @@
+﻿@model List<TasksModel>
+@{
+    ViewData["Title"] = "All Active Posts";
+    Layout = "~/Views/Shared/_PosterLayout.cshtml";
+}
+
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" href="~/TaskPost/PostTask"> Add Task <i class="fa fa-plus"></i> </a>
+    </div>
+    <div class="container">
+        @if (Model != null)
+        {
+            <div class="mt-2">
+                @foreach (var item in Model)
+                {
+                    <div class="mt-2 card row">
+                        <div class="card-body">
+
+                            <div class="row">
+                                <div class="col-4">
+                                    <h5 class="card-title"> @item.TaskTitle - @item.PostedBy.UserName </h5>
+                                    <h6 class="card-subtitle mb-2 text-muted"> Rs: @item.Budget\- </h6>
+                                    <p class="">
+                                        <b> Address</b> <i>@item.Address</i>
+                                    </p>
+                                </div>
+                                <div class="col-4">
+                                    <h4>Details:</h4>
+                                    <p class="card-body"> @item.TaskDetails </p>
+                                </div>
+                            </div>
+
+
+                            <div class="row">
+                                <a class="btn btn-warning m-5 col" asp-controller="Poster" asp-action="Edit" asp-route-id="@item.TaskId"> Edit </a>
+                                <a class="btn btn-danger m-5 col" asp-controller="Poster" asp-action="Delete" asp-route-id="@item.TaskId">Delete </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="text-center">
+                <h1> @TempData["message"] </h1>
+            </div>
+        }
+    </div>
+</div>

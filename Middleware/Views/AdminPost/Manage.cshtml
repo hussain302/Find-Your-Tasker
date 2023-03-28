@@ -1,0 +1,41 @@
+﻿@model List<TasksModel>
+@{
+    ViewData["Title"] = "Manage Posts";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+    </div>
+
+    <div>
+        @if (Model != null)
+        {
+            <div class="row mt-3">
+                    @foreach (var item in Model)
+                    {
+                    <div class="mt-2 col-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title"> @item.TaskTitle - @item.PostedBy.UserName </h4>
+                                <h6 class="card-subtitle mb-2 text-muted"> Rs: @item.Budget\- </h6>
+                                <p class="">
+                                    <b> Address</b> <i>@item.Address</i>
+                                </p>
+                                <h5> Task Status: @item.TaskStatus.TaskStatusName </h5>
+                                <a class="btn btn-outline-danger" asp-controller="AdminPost" asp-action="TaskDetails" asp-route-id="@item.TaskId"> Review Task </a>
+                            </div>
+                        </div>
+                    </div>
+                    }
+            </div>
+        }
+        else
+        {
+            <div class="text-center">
+                <h1> @TempData["message"] </h1>
+            </div>
+        }
+    </div>
+</div>

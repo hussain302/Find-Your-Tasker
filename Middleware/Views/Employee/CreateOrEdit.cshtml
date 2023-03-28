@@ -1,0 +1,70 @@
+﻿@model EmployeeModel
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <strong> Something went wrong </strong> @TempData["message"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" asp-action="Manage"> Back to Manage <i class="fa fa-arrow-left"></i> </a>
+    </div>
+
+    <div class="mt-5">
+        <form asp-action="CreateOrEdit" method="post">
+
+            <input hidden="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Full name</label>
+                <input type="text" asp-for="FullName" class="form-control" id="exampleFormControlInput1" placeholder="Employee Name">
+            </div>
+
+            <div class=" mb-3">
+                <label for="exampleFormControlInput1" class="form-label"> Email </label>
+                <input type="email" asp-for="Email" class="form-control" id="exampleFormControlInput1" placeholder="Employee Email">
+            </div>
+
+            <div class="row">
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label"> Designation </label>
+                    <input type="text"  asp-for="Designation" class="form-control" id="exampleFormControlInput1" placeholder="Employee Desgnation">
+                </div>
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label"> Salary </label>
+                    <input type="number" min="1" asp-for="Salary" class="form-control" id="exampleFormControlInput1" placeholder="Employee Salary">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="mb-3 col-6">
+                    <label for="exampleFormControlInput1" class="form-label"> Phone </label>
+                    <input type="text" min="1" asp-for="Phone1" class="form-control" id="exampleFormControlInput1" placeholder="+92-3XXXXXXX">
+                </div>
+                <div class="col-6 mb-3">
+                    <label for="exampleFormControlInput1" class="form-label"> Emergency Contact </label>
+                    <input type="text" asp-for="Phone2" class="form-control" id="exampleFormControlInput1" placeholder="Employee Emergency Contact">
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Address</label>
+                <textarea rows="3" asp-for="Address" class="form-control" id="exampleFormControlInput1" placeholder="Enter Address Details"></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Photo</label>
+                <input type="file" class="form-control" placeholder="No file choosen" />
+            </div>
+
+            <div class="mb-3 text-center">
+                <button class="btn btn-outline-success"> Save </button>
+            </div>
+        </form>
+    </div>
+</div>

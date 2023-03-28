@@ -1,0 +1,137 @@
+﻿@model TasksModel
+@{
+    ViewData["Title"] = "Post Task";
+    Layout = "~/Views/Shared/_PosterLayout.cshtml";
+}
+
+
+
+<div class="container text-center mt-5 mb-5 jumbotron">
+    <h1 class="display-4" style="font-size: bolder"> Tasker -  @ViewData["Title"]</h1>
+</div>
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container-fluid mb-5">
+    <div class="offset-2 col-7 login-form-1">
+        <h3 class="display-5">Enter Task Details</h3>
+        <form href="/Post-task" method="post">
+            <div class="form-row">
+                <div class="form-group">
+                    <input asp-for="TaskTitle" type="text" class="form-control" required placeholder="Task Title" value="" />
+                </div>
+            </div>
+            <div class="mb-3 mt-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Select Tasker Category</label>
+                <select class="form-control" asp-for="SubCategoryId">
+                    <option value=""> - Select Tasker Category - </option>
+                    @foreach (var itm in ViewBag.subCategory)
+                    {
+                        <option value="@itm.SubCategoryId">@itm.SubCategoryName</option>
+                    }
+                </select>
+            </div>
+            <div class="row">
+                <div class="form-group col-6">
+                    <label> Due date </label>
+                    <input type="date" asp-for="DueDate" class="form-control" placeholder="Due Date" value="" />
+                </div>
+
+                <div class="form-group col-6">
+                    <label> Expected Budget </label>
+                    <input type="number" min="0" asp-for="Budget" class="form-control" placeholder="Expected Budget" value="" />
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Address Location</label>
+                <textarea rows="2" asp-for="Address" class="form-control" id="exampleFormControlInput1" placeholder="Enter Address"></textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label"> Task Description </label>
+                <textarea rows="4" asp-for="TaskDetails" class="form-control" id="exampleFormControlInput1" placeholder="Enter Task Details"></textarea>
+            </div>
+
+            <div class="form-group text-center">
+                <input type="submit" class="btnSubmit" value="Add" />
+            </div>
+
+            <div class="form-group text-center">
+                <span>Need help? <a href="/help">Click</a> </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section styles {
+    <style>
+        .login-container {
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .login-form-1 {
+            padding: 5%;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-1 h3 {
+                text-align: center;
+                color: #333;
+            }
+
+        .login-form-2 {
+            padding: 5%;
+            background: #0062cc;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-2 h3 {
+                text-align: center;
+                color: #fff;
+            }
+
+        .login-container form {
+            padding: 10%;
+        }
+
+        .btnSubmit {
+            width: 30%;
+            border-radius: 1rem;
+            padding: 1.5%;
+            border: none;
+            cursor: pointer;
+        }
+
+        .login-form-1 .btnSubmit {
+            font-weight: 600;
+            color: #fff;
+            background-color: #0062cc;
+        }
+
+        .login-form-2 .btnSubmit {
+            font-weight: 600;
+            color: #0062cc;
+            background-color: #fff;
+        }
+
+        .login-form-2 .ForgetPwd {
+            color: #fff;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .login-form-1 .ForgetPwd {
+            color: #0062cc;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+    </style>
+}

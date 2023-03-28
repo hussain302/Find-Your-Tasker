@@ -1,0 +1,57 @@
+﻿@model IEnumerable<R_User>
+
+@{
+    //Random random = new Random();
+    //long phoneNumber = 5000000000 + random.Next(1000000000);
+
+    ViewData["Title"] = "Recommended Taskers";
+    Layout = "~/Views/Shared/_PosterLayout.cshtml";
+}
+
+<div class="container">
+    <div class="jumbotron">
+        <h1 class="text-center">Recommended Taskers for Skill: @ViewData["SKILL"]</h1>
+    </div>
+
+    <div class="row">
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title"> Tasker: @item.FullName</h5>
+                            <p class="card-text"><b>Avg Reviews</b> @item.AvgReview</p>
+                            <p class="card-text"> <b> Total Reviews: </b> @item.TotalReview</p>
+                            <p class="card-text font-weight-bold"><b> Skills: </b></p>
+                            <ul class="list-unstyled">
+                                @foreach (var skill in @item.Skills)
+                                {
+                                    <li class="card-text"> - @skill</li>
+                                }
+                            </ul>
+
+                            @*@if(item.PhoneOne == 0){
+                            <a href="tel:@phoneNumber" class="btn btn-success">
+                                Call: @phoneNumber
+                            </a>
+                            }*@
+                            @*else{*@
+                            <a href="tel:@item.PhoneOne" class="btn btn-success">
+                                Call: @item.PhoneOne
+                            </a>
+                            @*}*@
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="text-center">
+                <h1 class="display-4">No Taskers Recommended</h1>
+            </div>
+        }
+    </div>
+</div>

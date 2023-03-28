@@ -1,0 +1,54 @@
+﻿@model List<EmployeeModel>
+
+@{
+    ViewData["Title"] = "Manage Employees";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" asp-action="CreateOrEdit"> Create <i class="fa fa-plus"></i> </a>
+    </div>
+    <div>
+
+        @if (Model != null)
+        {
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Full name</th>
+                        <th>Designation</th>
+                        <th>Salary</th>
+                        <th>Phone</th>
+                        <th>Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var dept in Model)
+                    {
+                        <tr>
+                            <td>@dept.Id</td>
+                            <td>@dept.FullName</td>
+                            <td>@dept.Designation</td>
+                            <td>@dept.Salary</td>
+                            <td>@dept.Phone1</td>
+                            <td>
+                                <a class="btn btn-outline-primary btn-sm" asp-action="Details" asp-route-id="@dept.Id"> <i class="fa-solid fa-magnifying-glass"></i> </a>
+                                <a class="btn btn-outline-warning btn-sm" asp-action="CreateOrEdit" asp-route-id="@dept.Id"> <i class="fa fa-edit"></i> </a>
+                                <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@dept.Id"> <i class="fa fa-trash"></i> </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="text-center">
+                <h1> @TempData["message"] </h1>
+            </div>
+        }
+    </div>
+</div>

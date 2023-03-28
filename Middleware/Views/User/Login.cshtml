@@ -1,0 +1,105 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_MinimalLayout.cshtml";
+}
+
+
+<div class=" container text-center mt-5 mb-5 jumbotron">
+    <h1 class="display-4 "> Tasker App - @ViewData["Title"]</h1>
+</div>
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible fade show container" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container">
+    <div class="offset-2 col-7 login-form-1">
+        <h3 class="display-5">Enter Credentials</h3>
+        <form href="~/user/login" method="post">
+            <div class="form-group">
+                <input asp-for="UserName" type="text" class="form-control" placeholder="Username *" value="" />
+            </div>
+            <div class="form-group">
+                <input type="password" asp-for="Password" class="form-control" placeholder="Password *" value="" />
+            </div>
+            <div class="form-group text-center">
+                <input type="submit" onclick="onSubmitHandler()" class="btnSubmit" value="Login" />
+            </div>
+            <div class="form-group text-center">
+                <a href="#" class="ForgetPwd">Forget Password?</a> | <span>Dont have an account? <a href="register">Create.</a> </span>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section styles {
+    <style>
+        .login-container {
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+
+        .login-form-1 {
+            padding: 5%;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-1 h3 {
+                text-align: center;
+                color: #333;
+            }
+
+        .login-form-2 {
+            padding: 5%;
+            background: #0062cc;
+            box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+        }
+
+            .login-form-2 h3 {
+                text-align: center;
+                color: #fff;
+            }
+
+        .login-container form {
+            padding: 10%;
+        }
+
+        .btnSubmit {
+            width: 30%;
+            border-radius: 1rem;
+            padding: 1.5%;
+            border: none;
+            cursor: pointer;
+        }
+
+        .login-form-1 .btnSubmit {
+            font-weight: 600;
+            color: #fff;
+            background-color: #0062cc;
+        }
+
+        .login-form-2 .btnSubmit {
+            font-weight: 600;
+            color: #0062cc;
+            background-color: #fff;
+        }
+
+        .login-form-2 .ForgetPwd {
+            color: #fff;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+        .login-form-1 .ForgetPwd {
+            color: #0062cc;
+            font-weight: 600;
+            text-decoration: none;
+        }
+
+    </style>
+}

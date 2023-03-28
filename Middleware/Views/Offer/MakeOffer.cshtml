@@ -1,0 +1,34 @@
+﻿@model OfferModel
+@{
+
+
+}
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" asp-controller="Home" asp-action="Index"> Back to Home <i class="fa fa-arrow-left"></i> </a>
+    </div>
+    <div class="mb-5">
+        <div class="mt-5">
+            <form asp-action="MakeOffer" method="post">
+
+                <input hidden="hidden" type="number" asp-for="TaskId" value="@TempData["TaskId"]" />
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Offer details</label>
+                    <input type="text" asp-for="OfferDetails" class="form-control" id="exampleFormControlInput1" placeholder="Enter Offer Details">
+                </div>
+
+                <div class="mb-3">
+                    <label for="exampleFormControlInput1" class="form-label">Offer</label>
+                    <input type="number" asp-for="Offer" min="1" class="form-control" id="exampleFormControlInput1" placeholder="Enter Offer">
+                </div>
+
+                <div class="mb-3 text-center">
+                    <button class="btn btn-outline-success"> Make offer </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning container alert-dismissible fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container">
+    <div style="background-color: #198754; padding:40px;" class="text-white text-center">
+       <h1>  ABOUT US </h1>
+    </div>
+
+    <div class="row">
+        <div class="col-8">
+            <div class="row mt-3">
+                <div class=" col-8 mt-5">
+                    <h4 class="text-success">ABOUT US </h4>
+                </div>
+                <div class="w-40">
+                    <p>Find a Tasker is a community platform that connects skilled/unskilled people who want to sell their services/time to individual users/household/business.</p>
+                    <p>Traditional methods that are currently being followed in Pakistan have lot of drawbacks in it. Identifying those loopholes we are revolutionizing the way how people outsource their tasks. We are providing an innovative solution to the problems that almost every household and business faces on day to day basis</p>
+                    <p>Find a Tasker is a solution that lets you live an economically stable life by selling your skills to the right people with no capital requirements. For taskers, we let you save your precious time and find a right person for your job by looking at his previous job ratings and save your appliances from the brutality of an unskilled worker.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <img src="~/images/vision.png" alt="hire_icon" class="w-75" />
+        </div>
+    </div>
+    
+</div>
+<div class="container-fluid mt-3">
+    <div class="text-center">
+        <img style="height:490px; width:91%" src="~/images/backgroundPic.jpg" class="" />
+    </div>
+</div>

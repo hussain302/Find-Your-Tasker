@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Middleware
+build_property.RootNamespace = Middleware
+build_property.ProjectDir = D:\University Projects\Find Your Tasker\Tasker\Middleware\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\University Projects\Find Your Tasker\Tasker\Middleware
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/AdminPost/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qb3N0XE1hbmFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/AdminPost/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qb3N0XFRhc2tEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Admin/LoginAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW5BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Admin/ManageAccountInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQWNjb3VudEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Admin/ManageUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Category/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Category/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Employee/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Employee/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Offer/AllOffers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJcQWxsT2ZmZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Offer/MakeOffer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJcTWFrZU9mZmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Offer/TaskDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJcVGFza0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Poster/AllActivePosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdGVyXEFsbEFjdGl2ZVBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Poster/AllPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdGVyXEFsbFBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Poster/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Query/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcnlcTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Recommended/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb21tZW5kZWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Role/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGVPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Role/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/SubCategory/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/SubCategory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/SubCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/SubCategory/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcnlcTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Tasker/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskPost/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Bvc3RcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskPost/PostTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1Bvc3RcUG9zdFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskStatus/CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1N0YXR1c1xDcmVhdGVPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskStatus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1N0YXR1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskStatus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1N0YXR1c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/TaskStatus/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1N0YXR1c1xNYW5hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/User/AccountInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBY2NvdW50SW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/User/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-17zfgxc7nx
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6nf7emdtbm
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_MinimalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NaW5pbWFsTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-ld7mvuhvcg
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_PosterLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qb3N0ZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a4xyfl193z
+
+[D:/University Projects/Find Your Tasker/Tasker/Middleware/Views/Shared/_TaskerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UYXNrZXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l2sp8oijbn

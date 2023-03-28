@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible container fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="jumbotron bg-dark text-center text-white p-4">
+    <h1> Welcome <b>Hussain</b> - <i>To Manage Admin </i> </h1>
+    <p>You are logged in as a <b>Super Admin</b> and you have all the rights.</p>
+</div>
+
+<div class="row mt-5">
+    <div class="col-4  text-white">
+        <div class="bg-danger card" style="width: 100%">
+            <div class="card-body">
+                <h5 class="card-title">Manage Users</h5>
+                <p class="card-text"> On this Admin panel you can manage all the users (Approve, Delete) </p>
+                <a href="~/Admin/manage-users" class="btn btn-sm btn-outline-dark">Go to Users</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-4  text-white">
+        <div class="card bg-primary" style="width: 100%">
+            <div class="card-body">
+                <h5 class="card-title">Manage Posts</h5>
+                <p class="card-text"> On this Admin Panel you can manage all operations against the posts or ads </p>
+                <a href="~/AdminPost/manage" class="btn btn-sm btn-outline-dark">Go to Posts</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-4  text-white">
+        <div class="card bg-success" style="width: 100%">
+            <div class="card-body">
+                <h5 class="card-title">Manage Find a Tasker</h5>
+                <p class="card-text"> Manage all other operations which are reated to Find a Tasker</p>
+                <a href="/" class="btn-sm btn btn-outline-dark">Go somewhere</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+﻿@model List<TasksModel> 
+@{
+    ViewData["Title"] = "Tasks";
+    Layout = "~/Views/Shared/_PosterLayout.cshtml";
+}
+
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" href="~/TaskPost/PostTask"> Add Task <i class="fa fa-plus"></i> </a>
+    </div>
+    <div>
+
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <div class="card" style="width: 10%">
+                    <div class="card-body">
+                        <h5 class="card-title"> @item.TaskTitle : <i> Skill Required: @item.SubCategory.SubCategoryName </i> </h5>
+                        <h6 class="card-subtitle mb-2 text-muted">Poster:@item.Tasker.UserName </h6>
+                        <p class="card-text"> @item.TaskDetails.Substring(0, 15)... </p>
+                        
+                        <div class="card-link">
+                            <a asp-action="" asp-controller="" class="btn btn-outline-warning"> Read More </a>
+                        </div>
+
+                        <div class="card-link">
+                            <a asp-action="" asp-controller="" class="btn btn-outline-success"> Bid  </a>
+                        </div>
+                    </div>
+                </div>
+            }            
+        }
+        else
+        {
+            <div class="text-center">
+                <h1> @TempData["message"] </h1>
+            </div>
+        }
+    </div>
+</div>

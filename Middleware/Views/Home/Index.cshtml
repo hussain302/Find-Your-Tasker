@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning container alert-dismissible fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div>
+    <div class="text-center">
+        <img style="height:450px; width:80%" src="~/images/backgroundPic.jpg" class="" />
+    </div>
+
+    <div class="container mt-5">
+        <h1 class="display-3 text-center text-capitalize"> What do you need done? </h1>
+        <div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="offset-4 col-8 mt-5">
+            <h1 class="display-5"> What is Find a Tasker? </h1>
+        </div>
+        <div class="offset-3 w-50">
+            <p>Find a Tasker is a trusted world wide marketplace and website app for people and businesses to outsource their tasks, whether you are looking for work or you need someone to do a task we are here to help you hire. Skilled people can earn extra income through our website or mobile browser.</p>
+        </div>
+    </div>
+
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm text-center" style="margin-left:2%;">
+                <img src="~/images/hire_icon.png" alt="hire_icon" class="w-75" />
+                <h1 class="display-6 text-success"> Post Your Task </h1>
+                <p>Tell us what you need. It's FREE to post.</p>
+            </div>
+            <div class="col-sm">
+                <img src="~/images/post_task_icon.png" alt="hire_icon" class="w-75" />
+                <h1 class="display-6 text-success text-center"> Review Offers </h1>
+                <p>Get offers from trusted Taskers and view profiles.</p>
+            </div>
+            <div class="col-sm text-center">
+                <img src="~/images/review_offers_icon.png" alt="hire_icon" class="w-75" />
+                <h1 class="display-6 text-success">Hire The Right Tasker</h1>
+                <p>Choose the right person for your task and get it done.</p>
+            </div>
+        </div>
+    </div>
+
+</div>

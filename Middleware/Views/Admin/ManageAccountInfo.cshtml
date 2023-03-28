@@ -1,0 +1,64 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Account Info";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h1 class="display-4"> Manage Account Info -  <i> @Model.UserName </i> </h1>
+</div>
+
+<div class="container">
+
+    <form href="#" >
+        <div class="row mt-2">
+            <div class="col-4">
+                <label>Username</label>
+                <input class="form-control" type="text" value="@Model.UserName" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-5">
+                <label>Email</label>
+                <input class="form-control" type="email" value="@Model.Email" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-3">
+                <label>Role</label>
+                <input class="form-control" type="text" value="@Model.Role.RoleName" aria-label="readonly input example" readonly>
+            </div>
+        </div>
+        
+        <div class="row mt-2">
+            <div class="col-4">
+                <label>First name</label>
+                <input class="form-control" type="text" value="@Model.FirstName" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-4">
+                <label>Middle name</label>
+                <input class="form-control" type="text" value="@Model.MiddleName" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-4">
+                <label>Last name</label>
+                <input class="form-control" type="text" value="@Model.LastName" aria-label="readonly input example" readonly>
+            </div>
+        </div> 
+        <div class="row mt-2">
+            <div class="col-4">
+                <label>Phone One</label>
+                <input class="form-control" type="text" value="@Model.PhoneOne" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-4">
+                <label>Phone two</label>
+                <input class="form-control" type="text" value="@Model.PhoneTwo" aria-label="readonly input example" readonly>
+            </div>
+            <div class="col-4">
+                <label>Birth date</label>
+                <input class="form-control" type="text" value="@Model.BirthDate" aria-label="readonly input example" readonly>
+            </div>
+        </div>
+        <br />
+        <div class="text-center mt-2">
+            <a class="btn btn-outline-primary" asp-action="admin-dashboard"  asp-controller="Admin"> Back to Dashboard </a>
+        </div>
+
+
+    </form>
+</div>

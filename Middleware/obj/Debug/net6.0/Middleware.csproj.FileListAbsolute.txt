@@ -1,0 +1,1123 @@
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\appsettings.Development.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\appsettings.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.staticwebassets.runtime.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.exe
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.deps.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.runtimeconfig.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Middleware.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.AssemblyReference.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfoInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfo.cs
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cs
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.build.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.development.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\bundle\Middleware.styles.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\projectbundle\Middleware.bundle.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\refint\Middleware.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.genruntimeconfig.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\ref\Middleware.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Interfaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Mappers.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Models.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Repositories.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Interfaces.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Mappers.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Models.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Repositories.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_MinimalLayout.cshtml.rz.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CopyComplete
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Humanizer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\MessagePack.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Common.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_PosterLayout.cshtml.rz.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_TaskerLayout.cshtml.rz.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Castle.Core.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\appsettings.Development.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\appsettings.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.staticwebassets.runtime.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.exe
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.deps.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.runtimeconfig.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Castle.Core.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Humanizer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\MessagePack.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Common.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Interfaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Mappers.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Models.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Repositories.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Interfaces.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Mappers.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Models.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Repositories.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.AssemblyReference.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfoInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfo.cs
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CoreCompileInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cs
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_MinimalLayout.cshtml.rz.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_PosterLayout.cshtml.rz.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_TaskerLayout.cshtml.rz.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\bundle\Middleware.styles.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\projectbundle\Middleware.bundle.scp.css
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CopyComplete
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\refint\Middleware.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.genruntimeconfig.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\ref\Middleware.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\appsettings.Development.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\appsettings.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.staticwebassets.runtime.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.exe
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.deps.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.runtimeconfig.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Middleware.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Castle.Core.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Humanizer.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\MessagePack.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Common.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Interfaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Mappers.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Models.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Repositories.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Interfaces.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Mappers.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Models.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\Repositories.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.AssemblyReference.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfoInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfo.cs
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CoreCompileInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cs
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets\msbuild.Middleware.Microsoft.AspNetCore.StaticWebAssets.props
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets\msbuild.build.Middleware.props
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Middleware.props
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Middleware.props
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.pack.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.build.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.development.json
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_MinimalLayout.cshtml.rz.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_PosterLayout.cshtml.rz.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_TaskerLayout.cshtml.rz.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\bundle\Middleware.styles.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\scopedcss\projectbundle\Middleware.bundle.scp.css
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CopyComplete
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\refint\Middleware.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.pdb
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\Middleware.genruntimeconfig.cache
+D:\University Projects\Find Your Tasker\Tasker\Middleware\obj\Debug\net6.0\ref\Middleware.dll
+D:\University Projects\Find Your Tasker\Tasker\Middleware\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\appsettings.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.staticwebassets.runtime.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.exe
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.deps.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.runtimeconfig.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Middleware.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Castle.Core.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Humanizer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\MessagePack.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Common.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Interfaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Mappers.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Models.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Repositories.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Interfaces.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Mappers.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Models.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\bin\Debug\net6.0\Repositories.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.AssemblyReference.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfoInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.AssemblyInfo.cs
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CoreCompileInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.RazorAssemblyInfo.cs
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_MinimalLayout.cshtml.rz.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_PosterLayout.cshtml.rz.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\Views\Shared\_TaskerLayout.cshtml.rz.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\bundle\Middleware.styles.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\scopedcss\projectbundle\Middleware.bundle.scp.css
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.csproj.CopyComplete
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\refint\Middleware.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\Middleware.genruntimeconfig.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Middleware\obj\Debug\net6.0\ref\Middleware.dll

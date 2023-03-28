@@ -1,0 +1,76 @@
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Interfaces.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Models.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Interfaces.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\bin\Debug\net6.0\Models.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Interfaces.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Models.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Interfaces.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Models.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Interfaces.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Models.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Interfaces.pdb
+D:\University Projects\Find Your Tasker\Tasker\Repositories\bin\Debug\net6.0\Models.pdb
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\University Projects\Find Your Tasker\Tasker\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Interfaces.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Models.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Interfaces.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\bin\Debug\net6.0\Models.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\Repositories\obj\Debug\net6.0\ref\Repositories.dll

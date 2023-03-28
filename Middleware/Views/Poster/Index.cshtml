@@ -1,0 +1,45 @@
+﻿@model Skills
+@{
+    ViewData["Title"] = "Poster";
+    Layout = "~/Views/Shared/_PosterLayout.cshtml";
+}
+
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible container fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1 class="display-4"> @ViewData["Title"] Dashboard</h1>
+    </div>
+</div>
+<br />
+<br />
+<br />
+
+<div class="">
+
+    <div class="card-title">
+        <h1> Find a recommeded tasker </h1>
+    </div>
+    <form asp-action="FindRecommendedTasker" asp-controller="Poster" method="post">
+
+        <select class="form-control" asp-for="Name">
+            <option value="sql"> SQL </option>
+            <option value="python"> Python </option>
+            <option value=".net"> .NET </option>
+            <option value="wordpress"> WordPress </option>
+        </select>
+        <br />
+        <small> Select Skill name </small>
+        <br />
+        <br />
+        <br />
+        <button class="btn btn-sm btn-outline-primary" type="submit"><i class="fa fa-search"></i> Search</button>
+    </form>
+</div>

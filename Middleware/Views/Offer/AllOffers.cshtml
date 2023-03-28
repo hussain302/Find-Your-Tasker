@@ -1,0 +1,28 @@
+﻿@model List<OfferModel>
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] </h1>
+        <a class="btn btn-outline-success mt-2" asp-controller="Home" asp-action="Index"> Back to Home <i class="fa fa-arrow-left"></i> </a>
+    </div>
+    
+    <table class="table table-responsive table-hover">
+        <tr>
+            <th>Offer details</th>
+            <th>Offer</th>
+            <th>Tasker</th>
+        </tr>
+        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.OfferDetails </td>
+                <td>@item.Offer</td>
+                <td>
+                    <a asp-action="Profile" asp-controller="User" asp-route-name="@item.User.UserName"> @item.User.UserName </a>
+                </td>
+            </tr>
+        }
+    </table>
+
+</div>

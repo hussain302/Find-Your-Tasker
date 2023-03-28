@@ -1,0 +1,38 @@
+﻿@model ContactModel
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-warning container alert-dismissible fade show" style="background-color:#d5d5d7;" role="alert">
+        @TempData["message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<div class="container">
+    <div style="background-color: #198754; padding:40px;" class="text-white text-center">
+        <h1>  CONTACT US </h1>
+    </div>
+    <div class="container mt-5">
+        <form asp-controller="Home" asp-action="Query" method="post" >
+        
+        <!-- Email input -->
+        <div class="form-outline mb-2">
+            <label class="form-label" for="form4Example2">Email address</label>
+                <input asp-for="Email" placeholder="Example: hussain@id.com " type="email" id="form4Example2" class="form-control" />
+        </div>
+
+        <!-- Message input -->
+        <div class="form-outline mb-2">
+            <label class="form-label" for="form4Example3">Message</label>
+                <textarea asp-for="Details" class="form-control" placeholder="Type your message here.." id="form4Example3" rows="4"></textarea>
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-outline-success btn-block mb-4">Send Query</button>
+        </div>
+        <!-- Submit button -->
+    </form>
+    </div>
+</div>

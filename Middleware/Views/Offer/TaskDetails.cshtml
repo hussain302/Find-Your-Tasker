@@ -1,0 +1,46 @@
+﻿@model TasksModel
+@{
+    ViewData["Title"] = "Task Details";
+}
+
+<div class="container mt-4">
+    <div class="jumbotron bg-dark text-center text-white p-4">
+        <h1> @ViewData["Title"] - Sub Category : @Model.SubCategory.SubCategoryName </h1>
+        <a class="btn btn-outline-success mt-2" asp-controller="Home" asp-action="Index"> Back to Home <i class="fa fa-arrow-left"></i> </a>
+    </div>
+    <div>
+
+        @if (Model != null)
+        {
+            <div class="bg-gradient">
+                 <dl>
+                     <dt class="display-4"><b>@Model.TaskTitle </b> Posted by <i> @Model.PostedBy.UserName  </i> </dt>
+                     <dt> Description </dt>
+                     <dd> @Model.TaskDetails </dd>
+                     <dt> Price: </dt>
+                     <dd> <b> @Model.Budget </b> </dd>
+                    <dt> Address </dt>
+                    <dd> @Model.Address </dd>
+                    <dt> Posted on </dt>
+                    <dd> @Model.DateOfAssiging </dd>
+                    <dt> Completation Date </dt>
+                    <dd> @Model.DueDate  </dd>
+                 </dl>
+                 <div class="col">
+                     <a asp-controller="Offer" asp-action="MakeOffer" asp-route-taskid="@Model.TaskId"
+                     class="btn btn-success"> Offer </a>
+                 </div>
+                <div class="col">
+                   <a asp-controller="Offer" asp-action="AllOffers" asp-route-id="@Model.TaskId"
+               class="btn btn-warning"> View Offers </a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="text-center">
+                <h1> @TempData["message"] </h1>
+            </div>
+        }
+    </div>
+</div>

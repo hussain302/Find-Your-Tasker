@@ -1,0 +1,85 @@
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.dll
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.pdb
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Practices\Dotnet Practices\Azure\Tasker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Practices\Dotnet Practices\CodeHub - Tasker\Tasker App\Tasker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\My Projects & Practices\University Projects\Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.dll
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.pdb
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\University Projects\Find Your Tasker\Tasker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\bin\Debug\net6.0\Models.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Work\Final Year Project\Find a Tasker FYP\Tasker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
